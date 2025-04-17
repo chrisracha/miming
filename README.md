@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 ## About
 
-A little side project I made since class bored me.
+A little side something I made since class bored me. Buggy API app that gets random images from a cat API.
